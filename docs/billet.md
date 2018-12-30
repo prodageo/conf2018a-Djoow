@@ -8,7 +8,7 @@
  - Horaire de la conférence : 11h
  - Durée de la conférence : 50 mins
  - Conférencier(s) :
-   - Matthieu Lux ([Twitter](https://twitter.com/Swiip), [Github](https://github.com/Swiip)
+   - Matthieu Lux ([Twitter](https://twitter.com/Swiip), [Github](https://github.com/Swiip))
  - Audience : ~150 personnes
  - Auteur du billet : Jonathan Hervieux
  - Mots-clés : Javascript, Application Web, Web Components, Virtual DOM, State Management, Web Workers 
