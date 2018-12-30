@@ -2,19 +2,18 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2018
+ - Lieu : Kindarena - Rouen
+ - Conférence : Vanilla JS 2018
+ - Horaire de la conférence : 11h
+ - Durée de la conférence : 50 mins
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+   - Matthieu Lux ([Twitter](https://twitter.com/Swiip), [Github](https://github.com/Swiip)
+ - Audience : ~150 personnes
+ - Auteur du billet : Jonathan Hervieux
+ - Mots-clés : Javascript, Application Web, Web Components, Virtual DOM, State Management, Web Workers 
+ - URL de l'illustration : ![VanillaJS](https://infobeep.info/wp-content/uploads/2017/12/Vanilla-JS-is-most-power-and-lightweight-cross-platfrom-framework.jpg)
+   - quelques sources : http://vanilla-js.com, https://ourcodeworld.com/articles/read/62/js-frameworks-vs-vanillajs-use-or-not-use-a-framework-
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence
