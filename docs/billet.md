@@ -23,7 +23,9 @@
 ## Résumé
 
 Aujourd'hui, le développement Web sans frameworks ou outils externes (appelé VanillaWEB) tels que [React.js](https://reactjs.org/) ou [Webpack](https://webpack.js.org/) paraît impossible. Le but de cette conférence n'est pas de remettre en question le rôle de ces outils, qui permettent un gain de temps important pour mettre en production une application, mais de chercher à savoir s’il est actuellement viable de se passer d’eux. 
+
 Chaque framework ou outil possède un équivalent Vanilla sur lequel on peut s’appuyer pour développer un équivalent. Ainsi, il est possible d’écrire sa propre librairie Javascript en Vanilla directement à l’aide de l’API du navigateur, qui propose par exemple les Web Components, les Custom Elements, un langage HTML enrichi (balises template etc...) ou encore les HTML imports.
+
 Ainsi, dans l’état actuel, VanillaJS est un moyen de programmer très verbeux, mais cela fonctionne ! La principale difficulté est le temps qu'il faut consacrer à (ré)apprendre les API des navigateurs, puissante mais plus basique que les frameworks. De plus, la compatibilité entre navigateurs est inégale selon la fonctionnalité utilisée, les implémentations de l'API Javascript des navigateurs étant différente. VanillaJS et plus généralement VanillaWEB est donc viable, à condition de proscrire les anciens navigateurs et de prendre le temps d’écrire sa propre librairie Javascript.
 
 
